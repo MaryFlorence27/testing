@@ -10,7 +10,8 @@ import java.util.List;
 public class logindatatablesteps {
     @Given("User is at the login page of the application")
     public void userIsAtTheLoginPageOfTheApplication() {
-        System.out.println("userIsAtTheLoginPageOfTheApplication");
+        System.out.println("userIsAtTheLoginPageOfTheApplication ");
+        System.out.println("modified the code");
     }
 
     @When("User logs in with following username and password")
